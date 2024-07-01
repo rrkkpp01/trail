@@ -4300,7 +4300,7 @@
 @font-face {
     font-family: remixicon;
     src: url(../fonts/remixicon.eot?t=1708865856766);
-    src: url(../fonts/remixicon.eot?t=1708865856766#iefix) format("embedded-opentype"),url(https://rrkkpp01.github.io/trail/remixicon.woff2) format("woff2"),url(https://rrkkpp01.github.io/trail/remixicon.woff) format("woff"),url(../fonts/remixicon.ttf?t=1708865856766) format("truetype"),url(../fonts/remixicon.svg?t=1708865856766#remixicon) format("svg");
+    src: url(../fonts/remixicon.eot?t=1708865856766#iefix) format("embedded-opentype"),url(https://rrkkpp01.github.io/trail/remixicon.woff2) format("woff2"),url(https://rrkkpp01.github.io/trail/remixicon.woff) format("woff"),url(https://rrkkpp01.github.io/trail/remixicon.ttf) format("truetype"),url(../fonts/remixicon.svg?t=1708865856766#remixicon) format("svg");
     font-display: swap
 }
 
